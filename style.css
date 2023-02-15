@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+    background-color: palegoldenrod;
+    height: 100vh;
+    position: relative;
+    border: 10px solid black;
+}
+.top-section{
+    margin-top: 19px;
+}
+.top-section .heading{
+   position: absolute;
+   right: 600px;
+   top: 90px;
+}
+.top-section .heading3{
+    position: absolute;
+    right: 600px;
+    top: 130px;
+ }
+.top-section img{
+
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.mid-section{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.mid-section .heading{
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+.mid-section .heading3{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    padding: auto;
+}
